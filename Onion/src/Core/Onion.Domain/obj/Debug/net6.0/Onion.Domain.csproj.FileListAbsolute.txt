@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.deps.json
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.dll
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.pdb
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.dll
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\refint\Onion.Domain.dll
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.pdb
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\ref\Onion.Domain.dll
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.runtimeconfig.json
+C:\Users\HP\source\repos\Onion\src\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.genruntimeconfig.cache
